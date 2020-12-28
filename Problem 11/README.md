@@ -69,3 +69,5 @@ CGPA in the four sems are:
 6
 SGPA is : 6
 ```
+### Output Image Using Terminal
+![Output Image](https://github.com/1ms19is051/Java-Projs/blob/main/Problem%2011/Problem%2011%20Screenshot.png)
