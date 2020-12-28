@@ -55,3 +55,5 @@ Name : hehe
  YOJ : 5000
  Subjects: all
  ```
+ ### Output Image On Terminal:
+![Output image on Terminal](https://github.com/1ms19is051/Java-Projs/blob/main/Problem%2010/Problem%2010%20Screenshot.png)
